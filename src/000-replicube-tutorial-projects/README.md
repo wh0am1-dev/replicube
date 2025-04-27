@@ -1,4 +1,4 @@
-# tutorial projects
+# replicube tutorial projects
 
 - [the very basics](./000-the-very-basics/)
 - [conditions may apply](./001-conditions-may-apply/)
