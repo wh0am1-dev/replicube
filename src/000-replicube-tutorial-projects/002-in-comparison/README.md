@@ -13,5 +13,5 @@ return 9
 ```
 
 ```lua
-return 9 + floor((y + 1) / 3) * -2
+return 9 + (y + 1) // 3 * -2
 ```
