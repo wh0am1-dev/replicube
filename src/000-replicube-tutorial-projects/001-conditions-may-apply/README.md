@@ -1,5 +1,3 @@
-# conditions may apply
-
 ![preview](./preview.gif)
 
 ```lua

@@ -1,5 +1,3 @@
-# the very basics
-
 ![preview](./preview.gif)
 
 ```lua

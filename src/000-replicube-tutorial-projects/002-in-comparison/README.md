@@ -1,5 +1,3 @@
-# in comparison
-
 ![preview](./preview.gif)
 
 ```lua
