@@ -1,4 +1,4 @@
-# the very basics
+# conditions may apply
 
 ![preview](./preview.gif)
 
