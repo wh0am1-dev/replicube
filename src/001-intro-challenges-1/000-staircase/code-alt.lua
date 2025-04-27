@@ -1,0 +1,1 @@
+return btoi(x == -y)
