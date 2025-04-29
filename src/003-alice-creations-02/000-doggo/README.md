@@ -18,10 +18,10 @@ forehead = x == 0 and inrange(y, 1, 2) and z == 2
 tail = x == 0 and (inrange(y, 1, 2) and z == -3 or y == 2 and z == -2)
 
 if snout or forehead or paws or tail then
-	return 8
+  return 8
 end
 
 if body or head or ears or legs then
-	return 15
+  return 15
 end
 ```
