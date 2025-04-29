@@ -1,12 +1,30 @@
+# "All" | "Lua51" | "Lua52" | "Lua53" | "Lua54" | "LuaJIT" | "Luau" | "CfxLua"
 syntax = "All"
+
+# number
 column_width = 80
+
+# "Unix" | "Windows"
 line_endings = "Unix"
+
+# "Tabs" | "Spaces"
 indent_type = "Spaces"
+
+# number
 indent_width = 2
+
+# "AutoPreferDouble" | "AutoPreferSingle" | "ForceDouble" | "ForceSingle"
 quote_style = "AutoPreferSingle"
+
+# "Always" | "NoSingleString" | "NoSingleTable" | "None" | "Input"
 call_parentheses = "Always"
+
+# "Never" | "FunctionOnly" | "ConditionalOnly" | "Always"
 collapse_simple_statement = "Never"
+
+# "Never" | "Definitions" | "Calls" | "Always"
 space_after_function_names = "Never"
 
+# boolean
 [sort_requires]
 enabled = false
