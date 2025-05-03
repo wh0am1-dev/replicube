@@ -6,11 +6,7 @@ if y > 1 then
     return 12
   end
 elseif abs(x) < 3 and abs(z) < 3 then
-  if y % 2 == 1 then
-    if abs(x) == abs(z) then
-      return 12
-    end
-
+  if y % 2 == 1 and abs(x) ~= abs(z) then
     return 9
   end
 
